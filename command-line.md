@@ -1,6 +1,6 @@
 Hi mom,
 
-Command line is the baby little brother of programming languages. It is the advanced way to control your programming language using computer. Once you get used to it, you can easliy write the code and feel like you actuall own the hunk of metal. Memorize the command is the best way to catch the command line skill. 
+Command line is the baby little brother of programming languages. It is the advanced way to control your programming language using computer. Once you get used to it, you can easliy write the code and feel like you actually own the hunk of metal. Memorize the command is the best way to catch the command line skill. 
 
 It is also called as terminal. It runs an application called a shell that lets you talk to the computer directly using typed shell commands. We can run the commands in any operating system terminal.
 
@@ -9,3 +9,16 @@ We can use ls to list the files and folders.For make a directory we can use "md"
 I hope mom now you got some idea of command line.:)
 
 
+Here are some list of command:
+
+dir : list the content of the current directory.
+cd  : change directory
+mkdir:make directory
+rmdir:remove directory
+del : delete files
+ls : list directory
+mv : moving a file
+pwd : see working directory
+pushd: push directory
+popd: pop the directory
+exit: exit the terminal 
